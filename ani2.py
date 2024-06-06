@@ -1,5 +1,7 @@
+# txt = "numbers.txt"
+# output_asu = "ani_20193061_numbers.asu"
 txt = "number31.txt"
-output_asu = "ani_20193061_1.asu"
+output_asu = "ani_20193061_number31.asu"
 
 # Read numbers from the input file
 num = []
